@@ -8,6 +8,10 @@ requirements = []
 path = "contracts/health-data-registry.clar"
 depends_on = []
 
+[contracts.provider-authorization]
+path = "contracts/provider-authorization.clar"
+depends_on = []
+
 [contracts.vitals-tracker]
 path = "contracts/vitals-tracker.clar"
 depends_on = []
